@@ -18,7 +18,7 @@ if gameid[game.PlaceId] then
 end
 
 if script_use == "1" then
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Urohara1/Loader1/refs/heads/main/Ps991.txt"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Urohara1/Ps99Script/refs/heads/main/Ps99v2.txt"))()
 elseif script_use == "2" then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/Urohara1/Loader1/refs/heads/main/Petsgo"))()
 elseif script_use == "3" then
